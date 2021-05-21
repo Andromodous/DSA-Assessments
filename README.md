@@ -20,6 +20,6 @@ This Task was worth 35% of the Overall Grade for Data Structures and Algorithms
 
 This Assessment was completed Autumn Session 2021 @ University of Technology Sydney
 
-I acheived 12/14 Test Cases (Test 1-11, Test 14)
+I acheived 12/14 Test Cases (Test 1-11, Test 14): 88% (HD)
 
 The underlying g++ compiler in Ed is set to C++17 for this assessment. Usually, code that compiles with clang++ should also work with g++.
